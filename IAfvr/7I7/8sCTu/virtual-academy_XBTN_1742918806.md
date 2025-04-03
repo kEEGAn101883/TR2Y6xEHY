@@ -54,7 +54,6 @@ Before you deploy the newly created database **AdventureWorksDW2014** to Azure, 
 ![](https://oliviak.blob.core.windows.net/blog/data/01%2004%20azure%203.png)
 
 In the meantime, going back to SQL Server Management Studio, right click on the database **AdventureWorksDW2014**, then Tasks and then click on **Deploy Database to Windows Azure SQL Database...**:
-
 ![](https://oliviak.blob.core.windows.net/blog/data/01%2004%20azure%201.png)
 
 This will guide you through a wizard:
