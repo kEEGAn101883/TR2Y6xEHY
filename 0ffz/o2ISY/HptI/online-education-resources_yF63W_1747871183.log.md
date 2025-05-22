@@ -6,7 +6,6 @@ A list of online education resources I collected over time such as university co
 - [TreeHouse](http://teamtreehouse.com/) - Learn to build websites, create iPhone and Android apps, code with Ruby on Rails and PHP, or start a business.
 - [Codeschool](http://www.codeschool.com/) - Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.Ruby, RoR, Rspec, JS, Backbone.js, Node.js, jQuery, HTML5, CSS3, iOS
 - [Codecademy](http://www.codecademy.com/) - Learn to code interactively, for free. Ruby, Python, JS, jQuery, PHP, Web (HTML + CSS), different API's steb-by-step tutorials
-- [Pluralsight](http://www.pluralsight.com/) - Hardcore developer training
 - [Lynda](http://www.lynda.com/) - Learn software, business, and creative skills
 - [Udemy](https://www.udemy.com/) - Start Learning from the World's Top Instructor
 - [TheCodePlayer](http://thecodeplayer.com/) - Learn HTML5, CSS3, Javascript and more...
