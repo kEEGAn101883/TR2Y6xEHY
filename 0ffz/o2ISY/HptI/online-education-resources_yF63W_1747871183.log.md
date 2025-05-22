@@ -14,7 +14,6 @@ A list of online education resources I collected over time such as university co
 - [Tutsplus](https://tutsplus.com/) - A huge library of educational content to help you learn (Web Development, Graphic Design, Motion Graphics etc)
 - [Peepcode](https://peepcode.com/) - Video tutorials for professional web developers and designers
 - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
-- [LearnStreet](http://www.learnstreet.com/) - Start learning the fundamentals in our JavaScript, Ruby and Python courses
 - [hasbrains](http://hasbrains.ru/) - Screencasts about Ruby, Android, Autocad, Java, Rails, Vim, Javascript, Linux
 - [Thenewboston](http://thenewboston.org/tutorials.php) - Screencasts on diffents computer fields
 
