@@ -13,5 +13,4 @@ Specific task Group Member-2
 4. Display all the customers whose names start with ‘M’.
 5. Display all the details of the customers whose location is ‘Ahmedabad’
 6. Display all the customers whose account opening date falls in this month.
-Specific task Group Member-3
 with ‘A’
