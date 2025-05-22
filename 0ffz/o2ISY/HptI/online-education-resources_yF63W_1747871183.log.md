@@ -53,7 +53,6 @@ A list of online education resources I collected over time such as university co
 - [Udacity](https://www.udacity.com/)
 - [OnlineCourses](http://www.onlinecourses.com/) - Over 500 courses from the world's leading universities
 - [KhanAcademy](https://www.khanacademy.org/) - Learn almost anything for free
-- [Google Code University](https://developers.google.com/university/courses) 
 - [Intuit](http://www.intuit.ru/) - Бесплатное дистанционное обучение в Национальном Открытом Университете «ИНТУИТ»
 - [UniverTV](http://univertv.ru/)
 
