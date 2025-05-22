@@ -17,5 +17,4 @@ Specific task Group Member-2
 6. Display all the customers whose account opening date falls in this month.
 Specific task Group Member-3
 7. Display all the customers whose minimum account in the bank is less than 1000/-.
-8. Display all the customers who have multiple accounts and whose names start
 with ‘A’
