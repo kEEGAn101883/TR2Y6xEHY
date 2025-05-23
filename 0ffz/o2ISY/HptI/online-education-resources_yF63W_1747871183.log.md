@@ -71,7 +71,6 @@ A list of online education resources I collected over time such as university co
 - [English Stackexchange](http://english.stackexchange.com/) - English Language & Usage Stack Exchange is a question and answer site for linguists, etymologists, and serious English language enthusiasts. It's 100% free, no registration required
 - [Online Grammar Checker](http://www.gingersoftware.com/grammarcheck) - Grammar checker for english language
 
-##Misc
 
 #### Problems & Puzzles
 - [ProjectEuler](http://projecteuler.net/problems) - A series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve
