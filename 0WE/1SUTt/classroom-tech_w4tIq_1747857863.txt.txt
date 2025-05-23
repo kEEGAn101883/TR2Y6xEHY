@@ -7,6 +7,5 @@ Specific task Group Member-1
 2. Display all the customers who have registered their nominees.
 3. Display all the customers who were issued debit card today.
 Specific task Group Member-2
-4. Display all the customers whose names start with ‘M’.
 5. Display all the details of the customers whose location is ‘Ahmedabad’
 6. Display all the customers whose account opening date falls in this month.
