@@ -82,7 +82,6 @@ A list of online education resources I collected over time such as university co
 - [Codeforces](http://codeforces.ru/)
 - [FightCode](http://fightcodegame.com/) - A robot programmed by you fighting with other's players robots
 
-#### Freelance (test your skills)
 - [oDesk](http://www.oDesk.com/)
 - [Elance](https://www.elance.com/)
 - [Freelancer](http://www.freelancer.com/)
