@@ -1,4 +1,3 @@
-Project-21
 A Bank Management system is a system where all the details of the customers are
 nominee_registered(yes/no), minimum_amount_in_account, multiple_acc(yes/no). Here
 Create a class called bank_mgmt with above attributes and store the database for 10
