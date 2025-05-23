@@ -47,7 +47,6 @@ A list of online education resources I collected over time such as university co
 - [Node.js Backend Development](https://gist.github.com/dypsilon/5819528) - Backend Engineering Bookmarks for Node.js
 
 ## Universities Courses
-- [Coursera](https://www.coursera.org/) - Take the world's best courses, online, for free.
 - [edX](https://www.edx.org/) - Take greate courses from the world's best universities.
 - [Udacity](https://www.udacity.com/)
 - [OnlineCourses](http://www.onlinecourses.com/) - Over 500 courses from the world's leading universities
