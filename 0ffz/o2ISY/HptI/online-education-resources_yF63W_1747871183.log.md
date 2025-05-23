@@ -83,7 +83,6 @@ A list of online education resources I collected over time such as university co
 
 - [oDesk](http://www.oDesk.com/)
 - [Elance](https://www.elance.com/)
-- [Freelancer](http://www.freelancer.com/)
 
 #### Project Management
 - [Scrum: Agile For Everyone](http://www.slideshare.net/jaaronfarr/scrum-agile-for-everyone) - Presentation about Scrum by Apache team
