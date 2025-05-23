@@ -95,6 +95,5 @@ A list of online education resources I collected over time such as university co
 ##Other
 - [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) - An article by Peter Norvig
 - [CoderBits](https://coderbits.com/dddenis) - Build factual up-to-date portfolio from sites you use to showcase your skills, expertise, traits, code, designs, education, and more.
-- [StackOverflow](http://stackoverflow.com/) - Question and answer site for professional and enthusiast programmers. It's 100% free, no registration required. 
 - [Lumosity](https://www.lumosity.com/login) - Brain trainee
 - [TED Top-20](http://blog.ted.com/2012/08/21/the-20-most-watched-ted-talks-to-date/) - The 20 most-watched TED Talks to date
